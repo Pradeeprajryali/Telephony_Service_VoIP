@@ -24,8 +24,7 @@ Design a networked system to meet the given specifications. Use packet tracer so
 *Routing for VoIP- Configure dial-peering on the routers to allow IP phones from different routers to communicate.
 *inalize- Test Communication, ensure everything configured is working as expected.
 
-
-#Technologies Implemented
+Technologies Implemented
 > Creating a network topology using Cisco Packet Tracer.
 > Hierarchical Network Design.
 > Connecting Networking devices with Correct cabling.
