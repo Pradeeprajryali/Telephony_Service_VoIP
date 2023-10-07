@@ -5,7 +5,8 @@ server, SSH, VoIP configurations and Static IPv4 Addressing & Dial peering.
 
 #output
 
-![VOIP](https://github.com/Pradeeprajryali/Telephony_Service_VoIP/assets/144598651/6ec7cea7-bb04-4b16-b91f-f6a8a06f13ea)
+![VoIP IMAGE](https://github.com/Pradeeprajryali/Telephony_Service_VoIP/assets/144598651/8aa94d58-c021-42af-a347-c63c2abf421c)
+
 
 
 #Technologies Implemented
